@@ -9,3 +9,5 @@
 ### 底层源码
 ### 架构
 ### 技术栈
+### 检测工具
+[Android Profiler](https://www.cnblogs.com/zhaozhengwu/p/10578562.html)
