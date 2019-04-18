@@ -11,3 +11,4 @@
 ### 技术栈
 ### 检测工具
 [Android Profiler](https://www.cnblogs.com/zhaozhengwu/p/10578562.html)
+[Jenkins 自动打包](https://www.cnblogs.com/zhaozhengwu/p/10595466.html)
