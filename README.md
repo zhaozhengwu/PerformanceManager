@@ -14,6 +14,7 @@
 [反射](https://www.cnblogs.com/zhaozhengwu/p/10730368.html)<br/>
 [hork](https://www.cnblogs.com/zhaozhengwu/p/10735151.html)<br/>
 [注解](https://www.cnblogs.com/zhaozhengwu/p/10757705.html)
+[aop](https://www.cnblogs.com/zhaozhengwu/p/10761461.html)
 ### 检测工具
 [Android Profiler](https://www.cnblogs.com/zhaozhengwu/p/10578562.html)<br/>
 [Jenkins 自动打包](https://www.cnblogs.com/zhaozhengwu/p/10595466.html)
