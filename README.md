@@ -6,7 +6,8 @@
 [算法](https://www.cnblogs.com/zhaozhengwu/p/10571984.html)<br/>
 [栈](https://github.com/zhaozhengwu/StackManager)
 ### 框架原理
-[EventBus原理](https://www.cnblogs.com/zhaozhengwu/p/10756728.html)
+[EventBus原理](https://www.cnblogs.com/zhaozhengwu/p/10756728.html)<br/>
+[RecyclerView原理](https://www.cnblogs.com/zhaozhengwu/p/10756728.html)<br/>
 ### 底层源码
 ### 架构
 ### 技术栈
