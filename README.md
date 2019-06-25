@@ -21,6 +21,7 @@
 [aop](https://www.cnblogs.com/zhaozhengwu/p/10761461.html)
 ### 检测工具
 [Android Profiler](https://www.cnblogs.com/zhaozhengwu/p/10578562.html)<br/>
-[Jenkins 自动打包](https://www.cnblogs.com/zhaozhengwu/p/10595466.html)
+[Jenkins 自动打包](https://www.cnblogs.com/zhaozhengwu/p/10595466.html)<br/>
+[渠道包](https://www.cnblogs.com/zhaozhengwu/p/11081452.html)<br/>
 ### 延伸
 [css](https://www.cnblogs.com/zhaozhengwu/p/11051458.html)
