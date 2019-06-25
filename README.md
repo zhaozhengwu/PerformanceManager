@@ -8,6 +8,7 @@
 ### 框架原理
 [EventBus原理](https://www.cnblogs.com/zhaozhengwu/p/10756728.html)<br/>
 [RecyclerView原理](https://www.cnblogs.com/zhaozhengwu/p/10932271.html)<br/>
+[view工作原理](https://www.cnblogs.com/zhaozhengwu/p/11081427.html)<br/>
 ### 底层源码
 ### 架构
 ### 技术栈
